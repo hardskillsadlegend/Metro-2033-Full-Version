@@ -242,3 +242,6 @@ This repository serves as the official landing page for Metro 2033 Redux. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Metro 2033 Redux today!**
+
+---
+**Last updated:** 2026-09-10 14:48:28 UTC
