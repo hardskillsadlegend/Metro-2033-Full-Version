@@ -244,4 +244,4 @@ This repository serves as the official landing page for Metro 2033 Redux. The so
 **Get the most recent version of Metro 2033 Redux today!**
 
 ---
-**Last updated:** 2026-10-29 20:51:28 UTC
+**Last updated:** 2026-10-30 00:36:03 UTC
